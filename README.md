@@ -1,4 +1,4 @@
-# Web-Mining-NLP-Final_project
+## Web-Mining-NLP-Final_project
 
 # Description 
 My final project in the Web Mining and Applied NLP course encompassed a comprehensive analysis of article content using a range of NLP techniques. I began by processing the text with the spaCy module, effectively parsing and tokenizing the data. Employing sentiment analysis, I uncovered underlying emotional tones, offering insights into the article's sentiment.
